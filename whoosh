@@ -1,0 +1,3 @@
+array = [345, 234, 634]
+
+puts array
